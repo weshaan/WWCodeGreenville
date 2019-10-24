@@ -25,7 +25,7 @@
 There are a ton of great repos out there to contribute to, but this one was made for the members of WWCodeGreenville to help build and develop skills along with building the community.
 
 But why?
-* WomenWhoCode's mission is to help women succeed in technology careers and what better way to do that than to activily contribute?
+* WomenWhoCode's mission is to help women succeed in technology careers and what better way to do that than to actively contribute?
 * Your time should be focused on creating something amazing. This repo is made to help accomplish that with clearly defined issues for all skill levels.
 
 If there are any questions please let us know. :smile:
