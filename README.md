@@ -14,7 +14,8 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Roadmap](#roadmap)
-* [Contributing](#contributing)
+* [Code of Conduct](#contributing)
+* [Roadmap](#code-of-conduct)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -60,6 +61,15 @@ See the [open issues](https://github.com/WomenWhoCode/WWCodeGreenville/issues) f
 ## Contributing
 
 Check out CONTRIBUTING.md for how best to make contributions. Any contributions you make are **greatly appreciated**.
+
+<!-- CODE OF CONDUCT -->
+## Code of Conduct
+
+[This](https://www.womenwhocode.com/codeofconduct) is the current recommended Code of Conduct for all WWC events.
+
+Please make sure to have a copy or link to it on your event page.
+
+There's also a [short version](https://github.com/WomenWhoCode/guidelines-resources/blob/master/short_code_of_conduct.md) available.
 
 <!-- LICENSE -->
 ## License
