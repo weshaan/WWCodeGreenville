@@ -65,11 +65,10 @@ Check out CONTRIBUTING.md for how best to make contributions. Any contributions 
 <!-- CODE OF CONDUCT -->
 ## Code of Conduct
 
-[This](https://www.womenwhocode.com/codeofconduct) is the current recommended Code of Conduct for all WWC events.
+Women Who Code (WWCode) is an inclusive community, dedicated to providing an empowering experience for everyone who participates in or supports our community, regardless of gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, age, religion, socioeconomic status, caste, creed, political affiliation, or preferred programming language(s). Our events are intended to inspire women to excel in technology careers, and anyone who is there for this purpose is welcome. We do not tolerate harassment of members in any form. Our Code of Conduct applies to all WWCode events and online communities.
 
-Please make sure to have a copy or link to it on your event page.
+Read the full version and access our incident report form at [womenwhocode.com/codeofconduct](https://www.womenwhocode.com/codeofconduct).
 
-There's also a [short version](https://github.com/WomenWhoCode/guidelines-resources/blob/master/short_code_of_conduct.md) available.
 
 <!-- LICENSE -->
 ## License
