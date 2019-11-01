@@ -9,6 +9,9 @@ We're happy to help you get started contributing to our project!
 2. [Fork this repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 3. [Clone the repo to your computer]( https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 )
+4. Type `cd WWCodeGreenville`
+5. Type `bundle install`
+6. Type `rails db:migrate`
 
 Select an [issue](https://github.com/WomenWhoCode/WWCodeGreenville/issues) to work on. If you have questions about the issue, please comment on the issue
 and a maintainer will get back to you!
