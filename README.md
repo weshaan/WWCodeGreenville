@@ -11,6 +11,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
+* [Hacktoberfest 23]()
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Roadmap](#roadmap)
@@ -39,6 +40,17 @@ We are still getting started with this project, but what we have so far will be 
 
 <!-- GETTING STARTED -->
 ## Getting Started
+
+<!-- Hacktoberfest 23 -->
+## 🎃 Hacktoberfest 23
+
+- 🍴 To get started fork this repo
+- 👯‍♀️ Clone the repo to your laptop
+- 👩🏽‍💻 Participate by closing our open issues and contributing to the docs
+- 🤓 You must make 4 PR (pull requests) and have 4 MR (merge requests)
+- 🌲 You will get a tree planted in your name and some cool virtual swag
+- 🎃 Join the slack chanel #hacktober-2023 and ping a lead for help 
+- 👀 Check the WWCode Greenville Notion doc if you need help with GitHub or contributing
 
 Ready to jump in? Great! Here is how you can get started! Add getting started info here.
 
