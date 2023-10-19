@@ -11,7 +11,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-* [Hacktoberfest 23]()
+* [Hacktoberfest 2023]()
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Roadmap](#roadmap)
@@ -43,14 +43,13 @@ We are still getting started with this project, but what we have so far will be 
 
 <!-- Hacktoberfest 23 -->
 ## 🎃 Hacktoberfest 23
-
-- 🍴 To get started fork this repo
-- 👯‍♀️ Clone the repo to your laptop
-- 👩🏽‍💻 Participate by closing our open issues and contributing to the docs
-- 🤓 You must make 4 PR (pull requests) and have 4 MR (merge requests)
-- 🌲 You will get a tree planted in your name and some cool virtual swag
-- 🎃 Join the slack chanel #hacktober-2023 and ping a lead for help 
-- 👀 Check the WWCode Greenville Notion doc if you need help with GitHub or contributing
+- 🍴 To get started, fork this repository.
+- 👯‍♀️ Clone the repo to your computer.
+- 👩🏽‍💻 Participate by closing our open issues and contributing to the docs.
+- 🤓 You must make 4 PR (pull requests) and have 4 MR (merge requests) to complete the challenge!
+- 🌲 You will get a tree planted in your name and some cool virtual swag!
+- 🎃 Join out Slack channel #hacktober-2023 to ping a lead for help or just stop by and chat!
+- 👀 Check the [WWCode Greenville Notion Doc](https://wwcode.notion.site/Hacktoberfest-2023-d690520f41a04f1e956abf475c2313db?pvs=4) if you need help with GitHub or contributing to this project.
 
 Ready to jump in? Great! Here is how you can get started! Add getting started info here.
 
@@ -61,17 +60,16 @@ Add prerequisites here.
 
 <!-- INSTALLATION -->
 ### Installation
-
-Add install steps here.
+There are two ways to use git to interact with our repository: command-line git or through a desktop git app.
+1. git Command Line: There are many free tutorials that can walk you through the commands.  [FreeCodeCamp](https://www.freecodecamp.org/news/git-and-github-for-beginners/) has a great beginner tutorial.
+2. Desktop Git App: Another way that users can interact with our repository is through a desktop app like Github's own [Desktop App](https://desktop.github.com/), which has simple UI and can be intuitive for first time users.
 
 <!-- ROADMAP -->
 ## Roadmap
-
 See the [open issues](https://github.com/WomenWhoCode/WWCodeGreenville/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
-
 Check out [our contributing guidelines](https://github.com/WomenWhoCode/WWCodeGreenville/blob/master/CONTRIBUTING.md) for how best to make contributions. Any contributions you make are greatly appreciated.
 
 <!-- CODE OF CONDUCT -->
