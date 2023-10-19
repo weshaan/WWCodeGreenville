@@ -3,7 +3,8 @@
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
 
-# Welcome to WWCodeGreenville :sparkles: :computer:
+# Welcome to Women Who Code Greenville! :sparkles: :computer:
+[Linktree](https://linktr.ee/wwcodegville)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -24,25 +25,25 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are a ton of great repos out there to contribute to, but this one was made for the members of WWCodeGreenville to help build and develop skills along with building the community.
+There are a ton of great repos out there to contribute to, but this one was made for the members of WWCodeGreenville to help build and develop their skills along with building the community.
 
 But why?
-* WomenWhoCode's mission is to help women succeed in technology careers and what better way to do that than to actively contribute?
+* WomenWhoCode's mission is to help women succeed in technology careers, and what better way to do that than to actively contribute!
 * Your time should be focused on creating something amazing. This repo is made to help accomplish that with clearly defined issues for all skill levels.
 
-If there are any questions please let us know. :smile:
+If there are any questions, please let us know. :smile:
 
 <!-- BUILT WITH -->
 ### Built With
 We are still getting started with this project, but what we have so far will be listed below.
 * [Ruby on Rails](https://rubyonrails.org/)
-* more to come
+* More to Come!
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-<!-- Hacktoberfest 23 -->
-## 🎃 Hacktoberfest 23
+<!-- Hacktoberfest 2023 -->
+## 🎃 Hacktoberfest 2023
 - 🍴 To get started, fork this repository.
 - 👯‍♀️ Clone the repo to your computer.
 - 👩🏽‍💻 Participate by closing our open issues and contributing to the docs.
@@ -55,8 +56,11 @@ Ready to jump in? Great! Here is how you can get started! Add getting started in
 
 <!-- PREREQUISITES -->
 ### Prerequisites
-
-Add prerequisites here.
+- Installing a free code editor, such as VS Code, before starting is highly recommended.
+- A GitHub account is required to contribute to our repository.
+- Learning about basic git commands is helpful, but not required.  See the Installation section for options with or without using git commands.
+- Updating this repository's documentation will require learning Markdown.  This [free guide](https://www.markdownguide.org/) can help.
+- Future projects may require learning different programming languages or software - we'll see what happens next!
 
 <!-- INSTALLATION -->
 ### Installation
