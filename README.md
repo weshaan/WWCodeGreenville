@@ -47,7 +47,7 @@ We are still getting started with this project, but what we have so far will be 
 - 🍴 To get started, fork this repository.
 - 👯‍♀️ Clone the repo to your computer.
 - 👩🏽‍💻 Participate by closing our open issues and contributing to the docs.
-- 🤓 You must make 4 PR (pull requests) and have 4 MR (merge requests) to complete the challenge!
+- 🤓 You must have 4 PRs (pull requests) merged to complete the challenge!
 - 🌲 You will get a tree planted in your name and some cool virtual swag!
 - 🎃 Join out Slack channel #hacktober-2023 to ping a lead for help or just stop by and chat!
 - 👀 Check the [WWCode Greenville Notion Doc](https://wwcode.notion.site/Hacktoberfest-2023-d690520f41a04f1e956abf475c2313db?pvs=4) if you need help with GitHub or contributing to this project.
