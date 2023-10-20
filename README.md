@@ -47,7 +47,7 @@ We are still getting started with this project, but what we have so far will be 
 - 🍴 To get started fork this repo
 - 👯‍♀️ Clone the repo to your laptop
 - 👩🏽‍💻 Participate by closing our open issues and contributing to the docs
-- 🤓 You must make 4 PR (pull requests) and have 4 MR (merge requests)
+- 🤓 To get credit for participation you must make 4 PR (pull requests) also called (merge requests)
 - 🌲 You will get a tree planted in your name and some cool virtual swag
 - 🎃 Join the slack chanel #hacktober-2023 and ping a lead for help 
 - 👀 Check the WWCode Greenville Notion doc if you need help with GitHub or contributing
