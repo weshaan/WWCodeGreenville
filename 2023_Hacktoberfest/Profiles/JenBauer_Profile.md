@@ -18,8 +18,8 @@ I'm working on setting up more projects for Hacktoberfest right now during Octob
 Additional testing automation frameworks for my current role as a QA automation engineer.
 
 ## Social Links
-[YouTube Channel]("https://www.youtube.com/channel/@JenBauer")
-[LinkedIn]("https://www.linkedin.com/in/thejenbauer/")
-[Notion]("https://jenbauer.notion.site/jenbauer/Jen-Bauer-s-Docs-b549164bd7394f8c9ba40edd4bdbc8fb")
-[More Links]("https://jenbauer.carrd.co/")
-[Home Page]("https://jenbauer.com/")
+- [YouTube Channel](https://www.youtube.com/channel/@JenBauer)
+- [LinkedIn](https://www.linkedin.com/in/thejenbauer/)
+- [Notion](https://jenbauer.notion.site/jenbauer/Jen-Bauer-s-Docs-b549164bd7394f8c9ba40edd4bdbc8fb)
+- [More Links](https://jenbauer.carrd.co/)
+- [Home Page](https://jenbauer.com/)
