@@ -5,6 +5,8 @@
 
 # Welcome to Women Who Code Greenville! :sparkles: :computer:
 [Linktree](https://linktr.ee/wwcodegville)
+![Women Who Code Greenville logo](assets/greenville_teal_logo.png)
+
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
