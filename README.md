@@ -20,6 +20,7 @@
 * [Roadmap](#code-of-conduct)
 * [License](#license)
 * [Contact](#contact)
+* [Find Us Online](#find-us-online)
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
@@ -97,6 +98,24 @@ Copyright (c) 2019 Women Who Code Greenville
 WWCodeGreenville - [@wwcodegville](https://twitter.com/wwcodegville) - greenville@womenwhocode.com
 
 Project Link: [https://github.com/WomenWhoCode/WWCodeGreenville](https://github.com/WomenWhoCode/WWCodeGreenville)
+
+<!-- CONTACT -->
+## Find Us Online
+
+- [WWCode Greenville Website](https://www.womenwhocode.com/network/greenville/)
+  
+- [WWCode Greenville Meetup](https://www.meetup.com/women-who-code-greenville/)
+  
+- [WWCode Greenville Facebook](https://www.facebook.com/groups/womenwhocodegreenville/)
+  
+- [WWCode Greenville Open Collective](https://opencollective.com/wwcodegreenville)
+  
+- [WWCode Greenville X (previously Twitter)](https://twitter.com/WWCodeGville)
+
+- [WWCode Greenville Instagram](https://www.instagram.com/wwcodegville/)
+
+- [WWCode Greenville Notion](https://wwcode.notion.site/Women-Who-Code-Greenville-02e4990c6f814dccb92cf24da404b4b8)
+
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
