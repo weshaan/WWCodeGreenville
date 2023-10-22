@@ -1,18 +1,49 @@
+<!-- Women Who Code Brand Colors -->
+<style>
+  .wwc-teal {
+    color: #007D7F;
+  }
+
+  .wwc-yellow-heading {
+    background-color: #007D7F;
+    color: #FCED17;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+  }
+
+  wwc-orange {
+    color: #E86431;
+  }
+
+  wwc-purple {
+    color: #BB27A8;
+  }
+
+  wwc-blue {
+  color: #3045BF;
+  }
+
+  wwc-green {
+  color: #479F48;
+  }
+</style>
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
 
-# Welcome to Women Who Code Greenville! :sparkles: :computer:
-[Linktree](https://linktr.ee/wwcodegville)
 ![Women Who Code Greenville logo](assets/greenville_teal_logo.png)
 
+# Welcome to Women Who Code Greenville! :sparkles: :computer:
+[Linktree](https://linktr.ee/wwcodegville)
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+<h2 class='wwc-yellow-heading'>Table of Contents</h2>
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
 * [Hacktoberfest 2023]()
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -25,7 +56,6 @@
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
 <h2 id='about-the-project' class='wwc-yellow-heading'>About The Project</h2>
 
 There are a ton of great repos out there to contribute to, but this one was made for the members of WWCodeGreenville to help build and develop their skills along with building the community.
@@ -34,21 +64,20 @@ Why contribute to this repo?
 * WomenWhoCode's mission is to help women succeed in technology careers, and what better way to do that than to actively contribute!
 * Your time should be focused on creating something amazing. This repo is made to help accomplish that with clearly defined issues for all skill levels.
 
-If there are any questions, please let us know. :smile:
+If there are any questions, please let us know 😁
 
 <!-- Hacktoberfest 23 -->
 <h2 id='hacktoberfest' class='wwc-yellow-heading'>🎃 Hacktoberfest 23</h2>
 
-- 🍴 To get started, fork this repository.
-- 👯‍♀️ Clone the repo to your computer.
-- 👩🏽‍💻 Participate by closing our open issues and contributing to the docs.
+- 🍴 To get started, [fork this repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+- 👯‍♀️ [Clone the repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your computer.
+- 👩🏽‍💻 Participate by requesting to be assigned to our open issues and contributing to our docs.
 - 🤓 You must have 4 PRs (pull requests) merged to complete the challenge!
 - 🌲 You will get a tree planted in your name and some cool virtual swag!
-- 🎃 Join out Slack channel #hacktober-2023 to ping a lead for help or just stop by and chat!
+- 🎃 Join our network's Slack channel #hacktober-2023 and ping one of our Leads for help or just stop by and chat!
 - 👀 Check the [WWCode Greenville Notion Doc](https://wwcode.notion.site/Hacktoberfest-2023-d690520f41a04f1e956abf475c2313db?pvs=4) if you need help with GitHub or contributing to this project.
 
-Ready to jump in? Great! Here is how you can get started! Add getting started info here.
-
+Ready to jump in? Great! Get started here: [Hacktoberfest 2023](https://hacktoberfest.com/participation/)
 <!-- PREREQUISITES -->
 <h2 id='prerequisites' class='wwc-yellow-heading'>Prerequisites</h2>
 
