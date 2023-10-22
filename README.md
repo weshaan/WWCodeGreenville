@@ -1,50 +1,19 @@
-<!-- Women Who Code Brand Colors -->
-<style>
-  .wwc-teal {
-    color: #007D7F;
-  }
-
-  .wwc-yellow-heading {
-    background-color: #007D7F;
-    color: #FCED17;
-    display: inline-block;
-    margin: 0 auto;
-    text-align: center;
-    width: 100%;
-  }
-
-  wwc-orange {
-    color: #E86431;
-  }
-
-  wwc-purple {
-    color: #BB27A8;
-  }
-
-  wwc-blue {
-  color: #3045BF;
-  }
-
-  wwc-green {
-  color: #479F48;
-  }
-</style>
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
 
-![Women Who Code Greenville logo](assets/greenville_teal_logo.png)
+![Women Who Code Greenville logo](assets/readme/greenville_teal_logo.png)
 
-# Welcome to Women Who Code Greenville! :sparkles: :computer:
+# Welcome to Women Who Code Greenville! ✨💻
 [Linktree](https://linktr.ee/wwcodegville)
 
 <!-- TABLE OF CONTENTS -->
-<h2 class='wwc-yellow-heading'>Table of Contents</h2>
+![Table of Contents][table-of-contents-heading]
+  
 
-* [About the Project](#about-the-project)
-* [Hacktoberfest 2023]()
+* [About This Project](#about-this-project)
+* [Hacktoberfest 2023](#hacktoberfest)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Roadmap](#roadmap)
@@ -55,8 +24,8 @@
 * [Find Us Online](#find-us-online)
 * [Acknowledgements](#acknowledgements)
 
-<!-- ABOUT THE PROJECT -->
-<h2 id='about-the-project' class='wwc-yellow-heading'>About The Project</h2>
+<!-- ABOUT THIS PROJECT -->
+<span id='about-this-project'>![About This Project][about-heading]</span>
 
 There are a ton of great repos out there to contribute to, but this one was made for the members of WWCodeGreenville to help build and develop their skills along with building the community.
 
@@ -67,7 +36,7 @@ Why contribute to this repo?
 If there are any questions, please let us know 😁
 
 <!-- Hacktoberfest 23 -->
-<h2 id='hacktoberfest' class='wwc-yellow-heading'>🎃 Hacktoberfest 23</h2>
+<span id="hacktoberfest">![Hacktoberfest][hacktoberfest-heading]</span>
 
 - 🍴 To get started, [fork this repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 - 👯‍♀️ [Clone the repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your computer.
@@ -79,7 +48,7 @@ If there are any questions, please let us know 😁
 
 Ready to jump in? Great! Get started here: [Hacktoberfest 2023](https://hacktoberfest.com/participation/)
 <!-- PREREQUISITES -->
-<h2 id='prerequisites' class='wwc-yellow-heading'>Prerequisites</h2>
+<span id="prerequisites">![Prerequesites][prerequisites-heading]</span>
 
 - Installing a free code editor, such as VS Code, before starting is highly recommended.
 - A GitHub account is required to contribute to our repository.
@@ -88,24 +57,24 @@ Ready to jump in? Great! Get started here: [Hacktoberfest 2023](https://hacktobe
 - Future projects may require learning different programming languages or software - we'll see what happens next!
 
 <!-- INSTALLATION -->
-<h2 id='installation' class='wwc-yellow-heading'>Installation</h2>
+<span id='installation'>![Installation][installation-heading]</span>
 
 There are two ways to use git to interact with our repository: command-line Git or through a desktop Git app.
 1. Git Command Line: There are many free tutorials that can walk you through the commands.  [FreeCodeCamp](https://www.freecodecamp.org/news/git-and-github-for-beginners/) has a great beginner tutorial.
 2. Desktop Git App: Another way that users can interact with our repository is through a desktop app like Github's own [Desktop App](https://desktop.github.com/), which has simple UI and can be intuitive for first time users.
 
 <!-- ROADMAP -->
-<h2 id='roadmap' class='wwc-yellow-heading'>Roadmap</h2>
+<span id='roadmap'>![Roadmap][roadmap-heading]</span>
 
 See the [open issues](https://github.com/WomenWhoCode/WWCodeGreenville/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
-<h2 id='contributing' class='wwc-yellow-heading'>Contributing</h2>
+<span id='contributing'>![Contributing][contributing-heading]</span>
 
 Check out [our contributing guidelines](https://github.com/WomenWhoCode/WWCodeGreenville/blob/master/CONTRIBUTING.md) for how best to make contributions. Any contributions you make are greatly appreciated.
 
 <!-- CODE OF CONDUCT -->
-<h2 id='code-of-conduct' class='wwc-yellow-heading'>Code of Conduct</h2>
+<span id='code-of-conduct'>![Code of Conduct][code-of-conduct-heading]</span>
 
 Women Who Code (WWCode) is an inclusive community, dedicated to providing an empowering experience for everyone who participates in or supports our community, regardless of gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, age, religion, socioeconomic status, caste, creed, political affiliation, or preferred programming language(s). Our events are intended to inspire women to excel in technology careers, and anyone who is there for this purpose is welcome. We do not tolerate harassment of members in any form. Our Code of Conduct applies to all WWCode events and online communities.
 
@@ -113,14 +82,14 @@ Read the full version and access our incident report form at [womenwhocode.com/c
 
 
 <!-- LICENSE -->
-<h2 id='license' class='wwc-yellow-heading'>License</h2>
+<span id='license'>![License][license-heading]</span>
 
 The MIT License (MIT)
 
 Copyright (c) 2019 Women Who Code Greenville
 
 <!-- CONTACT -->
-<h2 id='contact' class='wwc-yellow-heading'>Contact</h2>
+<span id='contact'>![Contact][contact-heading]</span>
 
 WWCodeGreenville - [@wwcodegville](https://twitter.com/wwcodegville) - greenville@womenwhocode.com
 
@@ -145,9 +114,9 @@ Project Link: [https://github.com/WomenWhoCode/WWCodeGreenville](https://github.
 
 
 <!-- ACKNOWLEDGEMENTS -->
-<h2 id='acknowledgements' class='wwc-yellow-heading'>Acknowledgements</h2>
+<span id='acknowledgements'>![Acknowledgements][acknowledgements-heading]</span>
 
-* [WomenWhoCodeGreenville](https://www.womenwhocode.com/greenville)
+* [WomenWhoCodeGreenville](https://www.womenwhocode.com/network/greenville/#block-80)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/WomenWhoCode/WWCodeGreenville.svg?style=flat-square
@@ -158,3 +127,15 @@ Project Link: [https://github.com/WomenWhoCode/WWCodeGreenville](https://github.
 [stars-url]: https://github.com/WomenWhoCode/WWCodeGreenville/stargazers
 [issues-shield]: https://img.shields.io/github/issues/WomenWhoCode/WWCodeGreenville.svg?style=flat-square
 [issues-url]: https://github.com/WomenWhoCode/WWCodeGreenville/issues
+[table-of-contents-heading]: assets/readme/table_of_contents.svg
+[about-heading]: assets/readme/about.svg
+[hacktoberfest-heading]: assets/readme/hacktoberfest.svg
+[prerequisites-heading]: assets/readme/prerequisites.svg
+[installation-heading]: assets/readme/installation.svg
+[code-of-conduct-heading]: assets/readme/code_of_conduct.svg
+[roadmap-heading]: assets/readme/roadmap.svg
+[contributing-heading]: assets/readme/contributing.svg
+[license-heading]: assets/readme/license.svg
+[acknowledgements-heading]: assets/readme/acknowledgements.svg
+[contact-heading]: assets/readme/contact.svg
+
