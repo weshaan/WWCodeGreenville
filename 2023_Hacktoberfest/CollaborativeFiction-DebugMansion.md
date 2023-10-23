@@ -63,7 +63,7 @@ Determined to uncover this device and help these dedicated programmer-ghosts fin
 
 As we ventured into the heart of the mansion, my startup dreams took a back seat to the thrilling world of paranormal debugging, where even in death, the programmers were committed to perfecting their code.
 
-##Chapter 3: The Enigmatic Device written with ChatGPT
+## Chapter 3: The Enigmatic Device                                                                 ( - ChatGPT)
 
 Clara's explanation of the mansion's bizarre coding inhabitants had left me both astounded and intrigued. As we continued our exploration, my mind whirred with questions and curiosity. The mention of an enigmatic device hidden within the mansion, a device crucial to the programmers' salvation, had piqued my interest.
 
