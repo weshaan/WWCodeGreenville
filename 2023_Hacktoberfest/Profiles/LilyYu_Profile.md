@@ -1,4 +1,4 @@
-# (Cool Person's) Readme File and Bio
+# Lily's Readme File and Bio
 ## Bio
 Hi, I'm Lily. Im currently a senior in high school. I'm taking AP Comp Sci, where I am learning how to code. I am very dedicated and eager to learn.
 
