@@ -39,7 +39,7 @@ She explained how Uncle Bernie was not just an eccentric, but in fact an eccentr
 
 I stared, dumbfounded. Clara just smiled patiently. This was going to take some getting used to. But if I was going to get any work done here, it looked like I had no choice but to debug this haunted mansion and its eternal coders.
 
-## **Chapter 2: A Paranormal Debugging Adventure**
+## **Chapter 2: A Paranormal Debugging Adventure (Tech - ChatGPT) :) **
 
 Clara's revelation about the mansion's peculiar inhabitants left me in a state of disbelief. I blinked a few times, as though I could somehow shake off the surrealness of the situation. But Clara, the '80s programmer ghost, stood there, her translucent form pulsating with lines of code. It was clear that there was no escaping this unexpected turn of events.
 
