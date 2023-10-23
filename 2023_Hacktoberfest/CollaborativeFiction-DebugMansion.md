@@ -3,8 +3,9 @@
 _This story was started by Jen Bauer with the help of AI in the form of ChatGPT and Claude, then adjusted further and given additional detail through magic, imagination, and Markdown._
 
 Additional authors who added to this story are:
-- TBD, looking forward to seeing who jumps in!
+- Jen Bauer, Chapter 1
 - Ali Herrera, Chapter 2
+- TBD
 
 
 #### *A few quick thoughts on this project before you jump in:*
@@ -16,7 +17,7 @@ Additional authors who added to this story are:
 - The prime directive above all is to have fun with this project. :D
 
 
-## **Chapter 1: A Surprising Inheritance**
+## Chapter 1: A Surprising Inheritance (Written with ChatGPT and Claude, then edited further)
 Vanessa peers through fog.  It's cold.  It's summer, but it's always cold, somehow.  Uncle Bernie was like, that to.
 
 When he passed, I was the sole inheritor, somehow.  I thought this was a gift, getting a quiet place to launch my startup just landing in my lap. 
@@ -39,7 +40,7 @@ She explained how Uncle Bernie was not just an eccentric, but in fact an eccentr
 
 I stared, dumbfounded. Clara just smiled patiently. This was going to take some getting used to. But if I was going to get any work done here, it looked like I had no choice but to debug this haunted mansion and its eternal coders.
 
-## **Chapter 2: A Paranormal Debugging Adventure (Tech - ChatGPT) :) **
+## Chapter 2: A Paranormal Debugging Adventure (Tech - ChatGPT) :)
 
 Clara's revelation about the mansion's peculiar inhabitants left me in a state of disbelief. I blinked a few times, as though I could somehow shake off the surrealness of the situation. But Clara, the '80s programmer ghost, stood there, her translucent form pulsating with lines of code. It was clear that there was no escaping this unexpected turn of events.
 
@@ -61,4 +62,5 @@ Determined to uncover this device and help these dedicated programmer-ghosts fin
 
 As we ventured into the heart of the mansion, my startup dreams took a back seat to the thrilling world of paranormal debugging, where even in death, the programmers were committed to perfecting their code.
 
-## **Chapter 3: TBD**
+## Chapter 3: TBD
+_To be continued!_
