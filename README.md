@@ -38,13 +38,10 @@ If there are any questions, please let us know 😁
 <!-- Hacktoberfest 23 -->
 <span id="hacktoberfest">![Hacktoberfest][hacktoberfest-heading]</span>
 
-- 🍴 To get started, [fork this repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
-- 👯‍♀️ [Clone the repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your computer.
-- 👩🏽‍💻 Participate by requesting to be assigned to our open issues and contributing to our docs.
-- 🤓 You must have 4 PRs (pull requests) merged to complete the challenge!
-- 🌲 You will get a tree planted in your name and some cool virtual swag!
-- 🎃 Join our network's Slack channel #hacktober-2023 and ping one of our Leads for help or just stop by and chat!
-- 👀 Check the [WWCode Greenville Notion Doc](https://wwcode.notion.site/Hacktoberfest-2023-d690520f41a04f1e956abf475c2313db?pvs=4) if you need help with GitHub or contributing to this project.
+## Getting started
+
+To learn how to contribute to this project, please see the [getting started guide]([gettingstarted.md#how-to-contribute]).
+
 
 Ready to jump in? Great! Get started here: [Hacktoberfest 2023](https://hacktoberfest.com/participation/)
 <!-- PREREQUISITES -->
