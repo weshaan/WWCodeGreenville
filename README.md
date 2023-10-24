@@ -40,7 +40,7 @@ If there are any questions, please let us know 😁
 
 ## Getting started
 
-To learn how to contribute to this project, please see the [getting started guide](./GettingStarted.md).
+To learn how to contribute to this project, please see the [getting started guide](./GettingStarting.md).
 
 
 Ready to jump in? Great! Get started here: [Hacktoberfest 2023](https://hacktoberfest.com/participation/)
