@@ -113,7 +113,6 @@ Project Link: [https://github.com/WomenWhoCode/WWCodeGreenville](https://github.
 
 - [WWCode Greenville Notion](https://wwcode.notion.site/Women-Who-Code-Greenville-02e4990c6f814dccb92cf24da404b4b8)
 
-
 <!-- ACKNOWLEDGEMENTS -->
 <span id='acknowledgements'>![Acknowledgements][acknowledgements-heading]</span>
 
@@ -139,4 +138,3 @@ Project Link: [https://github.com/WomenWhoCode/WWCodeGreenville](https://github.
 [license-heading]: assets/readme/license.svg
 [acknowledgements-heading]: assets/readme/acknowledgements.svg
 [contact-heading]: assets/readme/contact.svg
-
