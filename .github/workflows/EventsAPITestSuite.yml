@@ -1,0 +1,31 @@
+# Action Name
+name: Run Newman as a GitHub Action
+
+# How is this action triggered?
+on:
+  schedule: #Run on a schedule
+  - cron: "0 10,16 * * *"
+  workflow_dispatch: #Trigger manually
+
+# This is the job that will run.
+jobs:
+  test-api:
+    runs-on: ubuntu-latest
+
+    # These are the steps within the job.
+    steps: 
+    # 1. Checkout Repository
+    - name: Checkout Repository
+      uses: actions/checkout@v1
+
+    # 2. Run Newman with params
+    - name: Run Newman
+      id: run-newman
+      uses: anthonyvscode/newman-action@v1
+      with:
+        collection: HackGreenvilleEventsAPITestSuite/EventsAPI.json
+        reporters: cli
+
+    # 3. View Test Results in Console
+    - name: Output summary to console
+      run: echo ${{ steps.run-newman.outputs.summary_full }} #summary_full is important!
