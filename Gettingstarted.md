@@ -12,7 +12,9 @@ To contribute to this project, please follow these steps:
 
 **Clone this repository** to your local manchine. Open a termianl navigate to the directory where you want to clone this repository. Then, run the following command:
 
-`https://github.com/<Your_username>/WWCodeGreenville.git`
+``` bash
+git clone https://github.com/<Your_username>/WWCodeGreenville.git
+```
 
 Replace <your_username> with your GitHub username
 
@@ -26,7 +28,10 @@ Replace <branch_name> with the name of the branch that you want to create.
 
 5.**Commit your changes**. To do this, run the following command:
 
-`git commit -m "<commit_message>"`
+``` bash
+git add .
+git commit -m "<commit_message>"
+```
 
 Replace <commit_message> with a short message that describes your changes.
 
