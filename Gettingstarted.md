@@ -28,7 +28,7 @@ Replace <branch_name> with the name of the branch that you want to create.
 
 `git commit -m "<commit_message>"`
 
-Replace <commit_message> with a short message that describes your changes.
+Replace `<commit_message>` with a short message that describes your changes.
 
 6.**Push your changes to your forked repository**. To do this, run the following command:
 
