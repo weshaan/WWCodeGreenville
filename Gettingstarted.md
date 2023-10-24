@@ -12,7 +12,7 @@ To contribute to this project, please follow these steps:
 
 **Clone this repository** to your local manchine. Open a termianl navigate to the directory where you want to clone this repository. Then, run the following command:
 
-`https://github.com/<Your_username>/WWCodeGreenville.git`
+`https://github.com/<your_username>/WWCodeGreenville.git`
 
 Replace <your_username> with your GitHub username
 
