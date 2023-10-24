@@ -20,7 +20,7 @@ Replace `<your_username>` with your GitHub username
 
 `git checkout -b <branch_name>`
 
-Replace <branch_name> with the name of the branch that you want to create.
+Replace `<branch_name>` with the name of the branch that you want to create.
 
 4.**Make your changes**. Open the file(s) that you want to edit in any code editor and make your changes.
 
