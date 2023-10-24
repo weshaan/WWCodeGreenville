@@ -40,7 +40,7 @@ Replace <branch_name> with the name of the branch that you want to pushed your c
 
 ![Point to a Pull request button](/assets/readme/compare-and-pull-request.png)
 
-8.**Respond to feedback**. we may review your changes and suggest improvements. so try to Respond to our feedback and make any necessary changes.
+8.**Respond to feedback**. We may review your changes and suggest improvements, so try to respond to our feedback and make any necessary changes.
 
 9.**Merge your pull request**. Once we're happy with your changes, we will merge your pull request into the main branch of the repository.
 
