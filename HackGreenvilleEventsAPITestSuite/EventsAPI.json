@@ -1,0 +1,64 @@
+{
+	"info": {
+		"_postman_id": "d4b4558a-8cff-422d-abe8-7b26f227e9ca",
+		"name": "HackGreenville Events API Test Suite",
+		"description": "This test suite runs on an automated schedule from the Women Who Code Greenville repository on a schedule from a Github Action.\n\n[https://github.com/WomenWhoCode/WWCodeGreenville/](https://github.com/WomenWhoCode/WWCodeGreenville/)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "14924326",
+		"_collection_link": "https://www.postman.com/jen-bauer/workspace/wwcode-gvl-api-training/collection/14924326-d4b4558a-8cff-422d-abe8-7b26f227e9ca?action=share&source=collection_link&creator=14924326"
+	},
+	"item": [
+		{
+			"name": "Get Events",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"// Setup",
+							"const responseData = pm.response.json();",
+							"",
+							"// Status Code Assertion",
+							"pm.test(\"Response status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"// Performance Assertion",
+							"pm.test(\"Response time is less than 2000ms\", function () {",
+							"  pm.expect(pm.response.responseTime).to.be.below(2000);",
+							"});",
+							"",
+							"// Response Body Verification",
+							"pm.test(\"Response is an array with at least one element\", function () {",
+							"    pm.expect(responseData).to.be.an('array');",
+							"    pm.expect(responseData).to.have.lengthOf.at.least(1);",
+							"});",
+							"",
+							"// Functional Testing Verification",
+							"//TBD"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://events.openupstate.org/api/gtc",
+					"protocol": "https",
+					"host": [
+						"events",
+						"openupstate",
+						"org"
+					],
+					"path": [
+						"api",
+						"gtc"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
