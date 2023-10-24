@@ -46,7 +46,8 @@ If there are any questions, please let us know 😁
 - 🎃 Join our network's Slack channel #hacktober-2023 and ping one of our Leads for help or just stop by and chat!
 - 👀 Check the [WWCode Greenville Notion Doc](https://wwcode.notion.site/Hacktoberfest-2023-d690520f41a04f1e956abf475c2313db?pvs=4) if you need help with GitHub or contributing to this project.
 
-Ready to jump in? Great! Get started here: [Hacktoberfest 2023](https://hacktoberfest.com/participation/)
+Ready to jump in? Great! Here is how you can get started! Add getting started info here.
+
 <!-- PREREQUISITES -->
 <span id="prerequisites">![Prerequesites][prerequisites-heading]</span>
 
@@ -112,7 +113,6 @@ Project Link: [https://github.com/WomenWhoCode/WWCodeGreenville](https://github.
 
 - [WWCode Greenville Notion](https://wwcode.notion.site/Women-Who-Code-Greenville-02e4990c6f814dccb92cf24da404b4b8)
 
-
 <!-- ACKNOWLEDGEMENTS -->
 <span id='acknowledgements'>![Acknowledgements][acknowledgements-heading]</span>
 
@@ -138,4 +138,3 @@ Project Link: [https://github.com/WomenWhoCode/WWCodeGreenville](https://github.
 [license-heading]: assets/readme/license.svg
 [acknowledgements-heading]: assets/readme/acknowledgements.svg
 [contact-heading]: assets/readme/contact.svg
-
