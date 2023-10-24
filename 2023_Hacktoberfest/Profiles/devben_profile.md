@@ -1,5 +1,5 @@
 <div align="center" width="50">
-  <img src="/Designer.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/git-create-devben/git-create-devben/main/Designer.png" width="100%"/>
 &nbsp;
 <h1 align="center">Hi 👋, I'm DevBen</h1>
 &nbsp;
