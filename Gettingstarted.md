@@ -36,7 +36,7 @@ Replace `<commit_message>` with a short message that describes your changes.
 
 Replace <branch_name> with the name of the branch that you want to pushed your changes to.
 
-7.**Create a pull request**. Go to the repository page that you forked and click the **Compare and pull request**.
+7.**Create a pull request**. Go to the repository page that you forked and click the **Compare and pull request** button
 
 ![Point to a Pull request button](/assets/readme/compare-and-pull-request.png)
 
