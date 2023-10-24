@@ -10,7 +10,7 @@ To contribute to this project, please follow these steps:
 
 ![Point to a fork button](/assets/readme/forkRepo.png)
 
-**Clone this repository** to your local manchine. Open a termianl navigate to the directory where you want to clone this repository. Then, run the following command:
+**Clone this repository** to your local machine. Open a terminal and navigate to the directory where you want to clone this repository. Then, run the following command:
 
 `https://github.com/<your_username>/WWCodeGreenville.git`
 
