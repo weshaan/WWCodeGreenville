@@ -16,6 +16,7 @@
 * [Hacktoberfest 2023](#hacktoberfest)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
+* [Getting Started](#getting-started)
 * [Roadmap](#roadmap)
 * [Code of Conduct](#contributing)
 * [Roadmap](#code-of-conduct)
@@ -36,6 +37,7 @@ Why contribute to this repo?
 If there are any questions, please let us know 😁
 
 <!-- Hacktoberfest 23 -->
+
 <span id="hacktoberfest">![Hacktoberfest][hacktoberfest-heading]</span>
 
 - 🍴 To get started, [fork this repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
@@ -63,6 +65,11 @@ Ready to jump in? Great! Here is how you can get started! Add getting started in
 There are two ways to use git to interact with our repository: command-line Git or through a desktop Git app.
 1. Git Command Line: There are many free tutorials that can walk you through the commands.  [FreeCodeCamp](https://www.freecodecamp.org/news/git-and-github-for-beginners/) has a great beginner tutorial.
 2. Desktop Git App: Another way that users can interact with our repository is through a desktop app like Github's own [Desktop App](https://desktop.github.com/), which has simple UI and can be intuitive for first time users.
+
+<!-- Getting Started -->
+## Getting started
+<span id="gettingstarted">![GettingStarted][getting-started-heading]</span>
+To learn how to contribute to this project, please see the [getting started guide](./GettingStarted.md).
 
 <!-- ROADMAP -->
 <span id='roadmap'>![Roadmap][roadmap-heading]</span>
@@ -132,6 +139,7 @@ Project Link: [https://github.com/WomenWhoCode/WWCodeGreenville](https://github.
 [hacktoberfest-heading]: assets/readme/hacktoberfest.svg
 [prerequisites-heading]: assets/readme/prerequisites.svg
 [installation-heading]: assets/readme/installation.svg
+[getting-started-heading]: assets/readme/gettingstarted.svg
 [code-of-conduct-heading]: assets/readme/code_of_conduct.svg
 [roadmap-heading]: assets/readme/roadmap.svg
 [contributing-heading]: assets/readme/contributing.svg
