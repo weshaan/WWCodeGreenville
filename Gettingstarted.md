@@ -34,7 +34,7 @@ Replace `<commit_message>` with a short message that describes your changes.
 
 `git push origin <branch_name>`
 
-Replace <branch_name> with the name of the branch that you want to pushed your changes to.
+Replace `<branch_name>` with the name of the branch that you want to pushed your changes to.
 
 7.**Create a pull request**. Go to the repository page that you forked and click the **Compare and pull request** button
 
