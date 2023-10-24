@@ -42,7 +42,7 @@ Replace <branch_name> with the name of the branch that you want to pushed your c
 
 8.**Respond to feedback**. we may review your changes and suggest improvements. so try to Respond to our feedback and make any necessary changes.
 
-9.**Merge your pull request**. Once we're happy with your changes, they we will merge your pull request into the main branch of the repository.
+9.**Merge your pull request**. Once we're happy with your changes, we will merge your pull request into the main branch of the repository.
 
 **Thanks for your contributions❤️**.
 
