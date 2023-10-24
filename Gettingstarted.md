@@ -14,7 +14,7 @@ To contribute to this project, please follow these steps:
 
 `https://github.com/<your_username>/WWCodeGreenville.git`
 
-Replace <your_username> with your GitHub username
+Replace `<your_username>` with your GitHub username
 
 3.**Create a new branch**. To do this, run the following command:
 
