@@ -68,8 +68,8 @@ There are two ways to use git to interact with our repository: command-line Git 
 
 <!-- Getting Started -->
 ## Getting started
-<span id="gettingstarted">![GettingStarted][getting-started-heading]</span>
-To learn how to contribute to this project, please see the [getting started guide](./GettingStarted.md).
+<span id="gettingstarted">![GettingStarted][getting-started-heading]</span> <br/> 
+To learn how to contribute to this project, please see the [getting started guide](./Gettingstarted.md).
 
 <!-- ROADMAP -->
 <span id='roadmap'>![Roadmap][roadmap-heading]</span>
