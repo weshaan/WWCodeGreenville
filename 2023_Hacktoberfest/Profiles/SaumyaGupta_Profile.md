@@ -28,7 +28,7 @@ Family is my life so just love spending time with my loved ones on off days.
 * Mentee at Google Developer Student Council (GDSC)
 * Mentee of Artificial Intellligence and Machine Learning
 * Mentee of Mobile Development using Flutter
-### Waiting for the upcoming 7 days Cloud Workshop
+* Waiting for the upcoming 7 days Cloud Workshop
 
 ## Social Links
 - [LinkedIn](https://www.linkedin.com/in/saumya-gupta-24a988282)
