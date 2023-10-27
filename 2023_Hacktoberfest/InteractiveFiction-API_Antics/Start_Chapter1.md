@@ -3,6 +3,7 @@
 _This story was started by Jen Bauer with the help of AI in the form of ChatGPT, then adjusted further and given additional detail through magic, imagination, and Markdown._
 
 Additional authors who added to this story are:
+- Prayrana Khadye, Chapter 4
 - TBD, looking forward to seeing who jumps in!
 
 
