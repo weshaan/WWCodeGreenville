@@ -25,7 +25,7 @@ Family is my life so just love spending time with my loved ones on off days.
 - Participation in SIH Hackathon : Recently took part in a India level hackathon as a Team Lead of 6 team members.
 
 ## What I'm Learning About Next or Any Upcoming Projects
-### Mentee at Google Developer Student Council (GDSC)
+* Mentee at Google Developer Student Council (GDSC)
 * Mentee of Artificial Intellligence and Machine Learning
 * Mentee of Mobile Development using Flutter
 ### Waiting for the upcoming 7 days Cloud Workshop
