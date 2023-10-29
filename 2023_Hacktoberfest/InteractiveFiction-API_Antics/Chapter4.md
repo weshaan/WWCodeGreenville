@@ -36,6 +36,6 @@ This time, an immediate response...
 She wondered, what is the meaning of this?
 
 ### What does Sam decide to do next?
-- If Sam wonders: "Can I do this on my own -- without Grumble, Squeak, or any other goblin?", turn to [Chapter 8](Chapter8.md).
-- If Sam wonders why she sees an immediate response, gets scared that no one is there, and wonders what to do next, turn to [Chapter 9](Chapter9.md).
+- If Sam feels confident that she does not need the goblins and attempts to make a request that bypasses them altogether, turn to [Chapter 8](Chapter8.md).
+- If Sam is spooked by the quick responses and decides to leave early for the day, turn to [Chapter 9](Chapter9.md).
 
