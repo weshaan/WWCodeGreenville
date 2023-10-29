@@ -3,6 +3,8 @@
 _This story was started by Jen Bauer with the help of AI in the form of ChatGPT, then adjusted further and given additional detail through magic, imagination, and Markdown._
 
 Additional authors who added to this story are:
+- Jen Bauer with ChaptGPT, Chapter 1
+- Jen Bauer, Chapter 2
 - Prayrana Khadye, Chapter 4
 - TBD, looking forward to seeing who jumps in!
 
@@ -16,6 +18,19 @@ Additional authors who added to this story are:
 - Improvisational comedy has the concept of "yes and", which is the idea of keeping yourself open to new situations in the moment so that a scene can grow and keep being interesting.  Keep your options open!  See where you can go next, and leave opportunities for your characters and the situation to go in different directions.
 - It's OK if we create a few dead-ends, since those surprises are also part of the fun in Choose Your Own Adventures style stories!
 - The prime directive above all is to have fun with this project. :D
+
+#### Chapter Tree Reference
+These are the planned chapters so far.  Please add additional paths here as they are created.
+
+* Chapter 1 (Written)
+** Chapter 2 (Written)
+*** Chapter 4 (TBD)
+**** Chapter 8 (TBD)
+**** Chapter 9 (TBD)
+*** Chapter 5 (TBD)
+** Chapter 3 (TBD)
+*** Chapter 6 (TBD)
+*** Chapter 7 (TBD)
 
 
 ## **Chapter 1: The Enigmatic Endpoint**
