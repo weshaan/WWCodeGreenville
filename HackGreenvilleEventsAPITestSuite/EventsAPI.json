@@ -35,6 +35,12 @@
 							"});",
 							"",
 							"// Functional Testing Verification",
+							"//Event Name Exists",
+							"pm.test("Event Name is not empty and exists", function () {",
+    							"	for (let i=0; i <responseData.length; i++) {",
+        						"		pm.expect(responseData[i].event_name).to.not.be.empty;",
+    							"	}",
+							"});",
 							"//TBD"
 						],
 						"type": "text/javascript"
