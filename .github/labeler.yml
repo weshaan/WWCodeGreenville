@@ -1,1 +1,13 @@
+dot: true
+
+2023_hacktoberfest:
+- 2023_Hacktoberfest/**
+
+eventvideos: 
+- 2023_Hacktoberfest/EventVideos/*
+
+interactivefiction-API_antics:
+- 2023_Hacktoberfest/InteractiveFiction-API_Antics/*
+
+
 
