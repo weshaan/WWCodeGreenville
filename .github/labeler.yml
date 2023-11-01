@@ -9,5 +9,26 @@ eventvideos:
 interactivefiction-API_antics:
 - 2023_Hacktoberfest/InteractiveFiction-API_Antics/*
 
+profiles:
+- 2023_Hacktoberfest/Profiles/*
 
+hackgreenvilleeventsAPItestsuite:
+- HackGreenvilleEventsAPITestSuite/**
 
+assets/readme: 
+- assets/readme/*
+
+documentation: 
+- assets/readme/*
+
+documentation:
+- '**/*.txt'
+
+documentation:
+- '**/CONTRIBUTING.md'
+
+documentation:
+- '**/README.md'
+
+repo:
+- '*'
