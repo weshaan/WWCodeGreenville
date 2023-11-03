@@ -1,31 +1,25 @@
 dot: true
 
 2023_hacktoberfest:
-- 2023_Hacktoberfest/**
+  - 2023_Hacktoberfest/**
 
 eventvideos: 
-- 2023_Hacktoberfest/EventVideos/*
+  - 2023_Hacktoberfest/EventVideos/*
 
 interactivefiction-API_antics:
-- 2023_Hacktoberfest/InteractiveFiction-API_Antics/*
+  - 2023_Hacktoberfest/InteractiveFiction-API_Antics/*
 
 hackgreenvilleeventsAPItestsuite:
-- HackGreenvilleEventsAPITestSuite/**
+  - HackGreenvilleEventsAPITestSuite/**
 
 assets/readme: 
-- assets/readme/*
+  - assets/readme/*
 
 documentation: 
-- assets/readme/*
-
-documentation:
-- '**/*.txt'
-
-documentation:
-- '**/CONTRIBUTING.md'
-
-documentation:
-- '**/README.md'
+  - assets/readme/*
+  - '**/*.txt'
+  - '**/CONTRIBUTING.md'
+  - '**/README.md'
 
 repo:
-- '*'
+  - '*'
