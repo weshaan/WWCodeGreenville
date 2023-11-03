@@ -1,24 +1,20 @@
 
-2023_hacktoberfest:
-  - 2023_Hacktoberfest/**
-
-eventvideos: 
+interactive fiction: 
   - 2023_Hacktoberfest/EventVideos/*
 
-interactivefiction-API_antics:
+tests:
   - 2023_Hacktoberfest/InteractiveFiction-API_Antics/*
 
 hackgreenvilleeventsAPItestsuite:
   - HackGreenvilleEventsAPITestSuite/**
 
-assets/readme: 
+assets: 
   - assets/readme/*
 
 documentation: 
+  - 2023_Hacktoberfest/**
   - assets/readme/*
   - '**/*.txt'
   - '**/CONTRIBUTING.md'
   - '**/README.md'
 
-repo:
-  - '*'
