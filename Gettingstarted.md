@@ -5,7 +5,7 @@ To contribute to this project, please follow these steps:
 1.**Star  this repository** (Click the **Star** button at the top of this page)
 
 ![Point to a star button](/assets/readme/StarRepo.png)
-hdhd
+
 2.**Fork this repository** (You can do this by clicking the **Fork** button on this repository's page)
 
 ![Point to a fork button](/assets/readme/forkRepo.png)
